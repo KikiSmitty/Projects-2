@@ -1,0 +1,21 @@
+PROGRAM Test1 IS
+
+  INSTRUCTION one IS
+     move
+  END one
+  
+  INSTRUCTION two IS
+    turnleft
+    turnleft
+  END two
+
+BEGIN
+  WHILE true DO
+    two
+    one
+    IF random THEN
+        infect
+        END IF
+  END WHILE
+  infect
+END Test1
