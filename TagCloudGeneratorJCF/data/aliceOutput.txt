@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Top Words in data/alice.txt</title>
+<link href="tagcloud.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h2>Top Words in data/alice.txt</h2>
+<hr>
+<div class="cdiv">
+<p class="cbox">
+<span class="f32">'</span>
+<span class="f20">a</span>
+<span class="f14">alice</span>
+<span class="f25">and</span>
+<span class="f11">i</span>
+<span class="f13">in</span>
+<span class="f17">it</span>
+<span class="f17">of</span>
+<span class="f16">said</span>
+<span class="f18">she</span>
+<span class="f11">that</span>
+<span class="f48">the</span>
+<span class="f23">to</span>
+<span class="f13">was</span>
+<span class="f12">you</span>
+</p>
+</div>
+</body>
+</html>
